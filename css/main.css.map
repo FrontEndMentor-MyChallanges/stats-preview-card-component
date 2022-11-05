@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,IAAI,CAAC;EACJ,gBAAgB,ECHL,OAAkB;CDI7B",
+    "sources": [
+        "../../FAQ accordion card/scss/main.scss",
+        "../../FAQ accordion card/scss/_variables.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
